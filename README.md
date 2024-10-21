@@ -1,4 +1,4 @@
-![web development](https://github.com/user-attachments/assets/2d694320-a8c0-460f-a3f4-290334e5e875)
+![web development](   https://camo.githubusercontent.com/bf4ccee202cf225797261bd960cbbe2092b5a0572cde61023e17bf526db04e6e/68747470733a2f2f7777772e6575726f6469676974616c73797374656d732e636f2e756b2f77702d636f6e74656e742f75706c6f6164732f323032312f30382f536f6674776172652d456e67696e656572696e672e676966)
 <h1 align="center">Hi 👋, I'm Faizan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
